@@ -1,0 +1,11 @@
+﻿extends layout
+
+block content
+    h1= "Sumator"
+    form
+        input(type='number', id='num1')
+        span +
+        input(type='number', id='num2')
+        span =
+        input(type='number', readonly='readonly', id='sum')
+        input(type='button', onclick='calc()', value='Calculate')

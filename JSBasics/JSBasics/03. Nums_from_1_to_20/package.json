@@ -1,0 +1,9 @@
+{
+  "name": "03.-nums_from_1_to_20",
+  "version": "0.0.0",
+  "description": "03. Nums_from_1_to_20",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}

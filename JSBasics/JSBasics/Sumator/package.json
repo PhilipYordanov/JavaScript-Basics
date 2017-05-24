@@ -1,0 +1,9 @@
+{
+  "name": "sumator",
+  "version": "0.0.0",
+  "description": "Sumator",
+  "main": "main.js",
+  "author": {
+    "name": "User"
+  }
+}
