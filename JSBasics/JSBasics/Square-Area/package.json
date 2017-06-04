@@ -1,0 +1,9 @@
+{
+  "name": "square-area",
+  "version": "0.0.0",
+  "description": "Square-Area",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}

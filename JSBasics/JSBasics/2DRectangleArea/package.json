@@ -1,0 +1,9 @@
+{
+  "name": "2-drectangle-area",
+  "version": "0.0.0",
+  "description": "2DRectangleArea",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}

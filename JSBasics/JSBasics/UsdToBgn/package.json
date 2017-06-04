@@ -1,0 +1,9 @@
+{
+  "name": "usd-to-bgn",
+  "version": "0.0.0",
+  "description": "UsdToBgn",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}

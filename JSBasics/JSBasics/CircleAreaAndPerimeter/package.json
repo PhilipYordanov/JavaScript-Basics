@@ -1,0 +1,9 @@
+{
+  "name": "circle-area-and-perimeter",
+  "version": "0.0.0",
+  "description": "CircleAreaAndPerimeter",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}

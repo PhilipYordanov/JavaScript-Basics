@@ -1,0 +1,9 @@
+{
+  "name": "celsius-to-fahrenheit",
+  "version": "0.0.0",
+  "description": "CelsiusToFahrenheit",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}

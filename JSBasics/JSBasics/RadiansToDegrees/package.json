@@ -1,0 +1,9 @@
+{
+  "name": "radians-to-degrees",
+  "version": "0.0.0",
+  "description": "RadiansToDegrees",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}

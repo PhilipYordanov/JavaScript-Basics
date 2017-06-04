@@ -1,0 +1,9 @@
+{
+  "name": "trapeziod-area",
+  "version": "0.0.0",
+  "description": "TrapeziodArea",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}
