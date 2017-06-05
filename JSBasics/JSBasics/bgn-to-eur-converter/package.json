@@ -1,0 +1,9 @@
+{
+  "name": "bgn-to-eur-converter",
+  "version": "0.0.0",
+  "description": "bgn-to-eur-converter",
+  "main": "main.js",
+  "author": {
+    "name": "User"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "currency-converter",
+  "version": "0.0.0",
+  "description": "CurrencyConverter",
+  "main": "app.js",
+  "author": {
+    "name": "User"
+  }
+}
